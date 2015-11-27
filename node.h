@@ -5,7 +5,7 @@
 #include <stdlib.h>
 #include <math.h>
 
-#define ITERATE_TO 5 // Whatever want you, set it.
+#define ITERATE_TO 5 // Whatever you want, set it.
 
 typedef struct
 {
